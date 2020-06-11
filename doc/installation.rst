@@ -7,7 +7,7 @@ Getting Python
 ==============
 
 If it's your first time with Python, we recommend
-`Anaconda <https://www.continuum.io/downloads>`_ as an easy-to-use
+`Anaconda <https://www.anaconda.com/>`_ as an easy-to-use
 environment that includes many basic packages. Anaconda is available
 for Windows, Mac OS X and GNU/Linux.
 
